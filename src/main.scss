@@ -1,0 +1,19 @@
+* {
+    height: 99.6%;
+    margin: 0;
+    background-color: rgb(54, 50, 82);
+    color: white;
+}
+
+textarea {
+    min-width: 99.5%;
+    min-height: fit-content;
+    border-style: none;
+    outline: none;
+    resize: none;
+}
+
+textarea:focus {
+    outline: none;
+    border-style: none;
+}
